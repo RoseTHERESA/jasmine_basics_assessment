@@ -27,7 +27,7 @@ module.exports = {
 		return sum/array.length
 	},
 
-	//test not failing for the following
+	//tests not failing for the following
 	medianScore: function(array) {
 		//var half = array.length/2;
 		//return half
